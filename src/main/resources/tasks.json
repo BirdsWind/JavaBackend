@@ -1,0 +1,99 @@
+[
+    {
+        "Id": "7bd0f5d7-027a-45f3-86f4-455a4947fac0",
+        "Users": [
+            "635347fe-2c36-43e4-b9cb-bfb5f0bce74c"
+        ],
+        "Patient": "142c21b4-78ef-46e2-b8b8-7a79aee58161",
+        "Location": "4d4dd83b-3d77-4186-a01c-6bfa025c6bd1",
+        "StartDateTime": "08:20:00",
+        "DurationInMinutes": 30,
+        "title": "Treatment",
+        "description": "Administer treatment as per plan."
+    },
+    {
+        "Id": "555e2cdf-724f-4934-a88a-7e6166c5f048",
+        "Users": [
+            "13609e52-a1a4-4b8d-9af9-ec3888171873"
+        ],
+        "Patient": "cc0de5dd-76c8-4d2f-9472-b52c740b1680",
+        "Location": "90775842-e0c8-4e1f-93a5-fc909772ce61",
+        "StartDateTime": "09:20:00",
+        "DurationInMinutes": 60,
+        "title": "Follow up",
+        "description": "Follow up with patient to discuss progress."
+    },
+    {
+        "Id": "7fd23d74-0ac0-48ea-a208-c97beb7187b9",
+        "Users": [
+            "635347fe-2c36-43e4-b9cb-bfb5f0bce74c"
+        ],
+        "Patient": "7cbe486e-673e-40b9-a83d-f6cc4157d4b6",
+        "Location": "4d4dd83b-3d77-4186-a01c-6bfa025c6bd1",
+        "StartDateTime": "10:40:00",
+        "DurationInMinutes": 10,
+        "title": "Treatment",
+        "description": "Quick treatment session."
+    },
+    {
+        "Id": "5e7c960b-777f-472e-b83d-d79a59cb1650",
+        "Users": [
+            "13609e52-a1a4-4b8d-9af9-ec3888171873"
+        ],
+        "Patient": "5ec916d4-3ca1-46f4-94d6-936aa3777f3f",
+        "Location": "90775842-e0c8-4e1f-93a5-fc909772ce61",
+        "StartDateTime": "10:10:00",
+        "DurationInMinutes": 20,
+        "title": "Consultation",
+        "description": "Initial consultation with patient."
+    },
+    {
+        "Id": "ace16c2b-7e3c-480b-9c79-c038af3ccd6a",
+        "Users": [
+            "635347fe-2c36-43e4-b9cb-bfb5f0bce74c"
+        ],
+        "Patient": "88900426-39b5-487e-add3-5c95a44cac8c",
+        "Location": "0ea71104-2130-4ab9-92f2-4cc11f1804fb",
+        "StartDateTime": "11:00:00",
+        "DurationInMinutes": 15,
+        "title": "Treatment",
+        "description": "Standard treatment session."
+    },
+    {
+        "Id": "47db5106-ab42-4f9a-84a8-75c1e654344f",
+        "Users": [
+            "635347fe-2c36-43e4-b9cb-bfb5f0bce74c"
+        ],
+        "Patient": "142c21b4-78ef-46e2-b8b8-7a79aee58161",
+        "Location": "4d4dd83b-3d77-4186-a01c-6bfa025c6bd1",
+        "StartDateTime": "12:10:00",
+        "DurationInMinutes": 30,
+        "title": "Treatment",
+        "description": "Follow the treatment protocol."
+    },
+    {
+        "Id": "34ac30f9-4129-45c0-be6b-ac73ccb46358",
+        "Users": [
+            "635347fe-2c36-43e4-b9cb-bfb5f0bce74c",
+            "6c991b27-e329-4422-9651-4a4f11770b41"
+        ],
+        "Patient": "cc0de5dd-76c8-4d2f-9472-b52c740b1680",
+        "Location": "d556e870-082d-41d6-a517-750a6c6aadad",
+        "StartDateTime": "12:20:00",
+        "DurationInMinutes": 5,
+        "title": "Blood sample",
+        "description": "Collect a blood sample for testing."
+    },
+    {
+        "Id": "6cb7829f-3f12-43a2-962d-91f713f36bbc",
+        "Users": [
+            "635347fe-2c36-43e4-b9cb-bfb5f0bce74c"
+        ],
+        "Patient": "7cbe486e-673e-40b9-a83d-f6cc4157d4b6",
+        "Location": "90775842-e0c8-4e1f-93a5-fc909772ce61",
+        "StartDateTime": "13:20:00",
+        "DurationInMinutes": 30,
+        "title": "Consultation",
+        "description": "Discuss results and next steps."
+    }
+]
